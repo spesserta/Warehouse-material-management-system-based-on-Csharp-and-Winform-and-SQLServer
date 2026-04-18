@@ -1,0 +1,66 @@
+D:\项目\2017\BSM\BSM.BLL\bin\Debug\BSM.BLL.dll
+D:\项目\2017\BSM\BSM.BLL\bin\Debug\BSM.BLL.pdb
+D:\项目\2017\BSM\BSM.BLL\bin\Debug\BSM.DAL.dll
+D:\项目\2017\BSM\BSM.BLL\bin\Debug\BSM.Models.dll
+D:\项目\2017\BSM\BSM.BLL\bin\Debug\BSM.DAL.pdb
+D:\项目\2017\BSM\BSM.BLL\bin\Debug\BSM.Models.pdb
+D:\项目\2017\BSM\BSM.BLL\obj\Debug\BSM.BLL.csprojAssemblyReference.cache
+D:\项目\2017\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CoreCompileInputs.cache
+D:\项目\2017\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CopyComplete
+D:\项目\2017\BSM\BSM.BLL\obj\Debug\BSM.BLL.dll
+D:\项目\2017\BSM\BSM.BLL\obj\Debug\BSM.BLL.pdb
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.BLL.dll
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.BLL.pdb
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.DAL.dll
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.Models.dll
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.DAL.pdb
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.Models.pdb
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.csprojAssemblyReference.cache
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CoreCompileInputs.cache
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CopyComplete
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.dll
+E:\BaiduNetdiskDownload\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.pdb
+E:\Test\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.BLL.dll
+E:\Test\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.BLL.pdb
+E:\Test\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.DAL.dll
+E:\Test\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.Models.dll
+E:\Test\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.DAL.pdb
+E:\Test\Booksystem\BSM\BSM.BLL\bin\Debug\BSM.Models.pdb
+E:\Test\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.csprojAssemblyReference.cache
+E:\Test\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CoreCompileInputs.cache
+E:\Test\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CopyComplete
+E:\Test\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.dll
+E:\Test\Booksystem\BSM\BSM.BLL\obj\Debug\BSM.BLL.pdb
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\bin\Debug\BSM.BLL.dll
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\bin\Debug\BSM.BLL.pdb
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\bin\Debug\BSM.DAL.dll
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\bin\Debug\BSM.Models.dll
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\bin\Debug\BSM.DAL.pdb
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\bin\Debug\BSM.Models.pdb
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.Up2Date
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\obj\Debug\BSM.BLL.dll
+D:\BaiduNetdiskDownload\Booksystem5549763\BSM\BSM.BLL\obj\Debug\BSM.BLL.pdb
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\bin\Debug\BSM.BLL.dll
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\bin\Debug\BSM.BLL.pdb
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\bin\Debug\BSM.DAL.dll
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\bin\Debug\BSM.Models.dll
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\bin\Debug\BSM.DAL.pdb
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\bin\Debug\BSM.Models.pdb
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.Up2Date
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\obj\Debug\BSM.BLL.dll
+C:\Users\LENOVO\Desktop\图书管理系统\BSM\BSM.BLL\obj\Debug\BSM.BLL.pdb
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\bin\Debug\BSM.BLL.dll
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\bin\Debug\BSM.BLL.pdb
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\bin\Debug\BSM.DAL.dll
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\bin\Debug\BSM.Models.dll
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\bin\Debug\BSM.DAL.pdb
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\bin\Debug\BSM.Models.pdb
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\obj\Debug\BSM.BLL.csproj.Up2Date
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\obj\Debug\BSM.BLL.dll
+C:\Users\LENOVO\Desktop\仓库管理系统 - 副本\BSM\BSM.BLL\obj\Debug\BSM.BLL.pdb

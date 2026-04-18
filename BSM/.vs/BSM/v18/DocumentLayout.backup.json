@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\BSM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13056FF1-F746-4DD7-8CA9-903AE70F1786}|BSM\\BSM.csproj|c:\\users\\lenovo\\desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\bsm\\bsm\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13056FF1-F746-4DD7-8CA9-903AE70F1786}|BSM\\BSM.csproj|solutionrelative:bsm\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13056FF1-F746-4DD7-8CA9-903AE70F1786}|BSM\\BSM.csproj|c:\\users\\lenovo\\desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\bsm\\bsm\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13056FF1-F746-4DD7-8CA9-903AE70F1786}|BSM\\BSM.csproj|solutionrelative:bsm\\frmupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13056FF1-F746-4DD7-8CA9-903AE70F1786}|BSM\\BSM.csproj|c:\\users\\lenovo\\desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\bsm\\bsm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13056FF1-F746-4DD7-8CA9-903AE70F1786}|BSM\\BSM.csproj|solutionrelative:bsm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\BSM\\BSM\\frmUpdate.cs",
+              "RelativeDocumentMoniker": "BSM\\frmUpdate.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\BSM\\BSM\\frmUpdate.cs",
+              "RelativeToolTip": "BSM\\frmUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T03:18:58.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUpdate.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\BSM\\BSM\\frmUpdate.cs",
+              "RelativeDocumentMoniker": "BSM\\frmUpdate.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\BSM\\BSM\\frmUpdate.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "BSM\\frmUpdate.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T03:18:56.041Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\BSM\\BSM\\Form1.cs",
+              "RelativeDocumentMoniker": "BSM\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\\u4ED3\u5E93\u7BA1\u7406\u7CFB\u7EDF - \u526F\u672C\\BSM\\BSM\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "BSM\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T02:39:55.136Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
